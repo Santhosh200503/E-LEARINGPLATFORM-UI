@@ -18,5 +18,6 @@ On the Courses page, users can browse through a categorized list of available su
 The UI often includes interactive elements like progress bars, quizzes, discussion forums, and certificates upon course completion. A search bar and filters make it easier to find specific topics or course levels. Bright color schemes, legible fonts, and minimal clutter enhance readability and focus. Overall, the E-Learning Platform UI aims to make learning easy, accessible, and enjoyable through thoughtful design and user-centered features.
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b361f05b-5c00-44c9-8cc5-c9e1b24c630c" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a5d28cdb-155d-4d89-809c-031263428a3e" />
 
 
